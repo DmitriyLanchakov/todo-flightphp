@@ -1,0 +1,13 @@
+{
+    "require": {
+        "mikecao/flight": "^1.3",
+        "martywallace/simpledb": "master-dev"
+
+    },
+    "autoload": {
+        "classmap": [
+            "Model",
+            "Util"
+        ]
+    }
+}
